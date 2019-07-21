@@ -41,7 +41,6 @@ def play(board)
     turn(board)
     play_loop -= 1
   end
-  puts "game over!"
 end
 
 
